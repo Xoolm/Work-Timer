@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Work-Timer/static/css/main.2e2a1626.css",
+    "main.js": "/Work-Timer/static/js/main.9b7dff29.js",
+    "static/media/beep.mp3": "/Work-Timer/static/media/beep.64e8d1ede10b490bf235.mp3",
+    "static/media/instagram.svg": "/Work-Timer/static/media/instagram.43fc0150c43bc9cb9b422e4c6b2f61a1.svg",
+    "static/media/tiktok.svg": "/Work-Timer/static/media/tiktok.31db56355cf8b0185d84dc16aa28e7b3.svg",
+    "static/media/pause.svg": "/Work-Timer/static/media/pause.47a3762197a396395411bc3880654917.svg",
+    "static/media/spotify.svg": "/Work-Timer/static/media/spotify.24c3999633d46cb0ab516edd4a825eb9.svg",
+    "static/media/play.svg": "/Work-Timer/static/media/play.c36daaaa379cc2b8fa111b2227021e70.svg",
+    "static/media/arrows-rotate-solid.svg": "/Work-Timer/static/media/arrows-rotate-solid.e893d60426c3fc5f299339106a8d1b51.svg",
+    "static/media/twitter.svg": "/Work-Timer/static/media/twitter.ed75f84035a9bf358dca841e000c24ec.svg",
+    "static/media/youtube.svg": "/Work-Timer/static/media/youtube.dd044bf8744fd318a9456b1fafa2e20b.svg",
+    "index.html": "/Work-Timer/index.html",
+    "static/media/arrow-down-solid.svg": "/Work-Timer/static/media/arrow-down-solid.1a2cada9b7f66ba3ba71bb32ac8f377c.svg",
+    "static/media/arrow-up-solid.svg": "/Work-Timer/static/media/arrow-up-solid.8df1ccc4c82fc8dacd802cd741ccbb86.svg",
+    "static/media/twitch.svg": "/Work-Timer/static/media/twitch.8808d72a8d20c4f3ab66bd199174f060.svg",
+    "main.2e2a1626.css.map": "/Work-Timer/static/css/main.2e2a1626.css.map",
+    "main.9b7dff29.js.map": "/Work-Timer/static/js/main.9b7dff29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e2a1626.css",
+    "static/js/main.9b7dff29.js"
+  ]
+}
