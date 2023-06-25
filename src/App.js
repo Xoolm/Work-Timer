@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import "./style/App.css";
+import "./style/adaptation.css";
 import beep from "./sound/beep.mp3";
 import { ReactComponent as ArrUp } from "./img/arrow-up-solid.svg";
 import { ReactComponent as ArrDown } from "./img/arrow-down-solid.svg";
