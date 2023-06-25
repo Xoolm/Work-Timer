@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Work-Timer/static/css/main.2e2a1626.css",
+    "main.css": "/Work-Timer/static/css/main.123e217d.css",
     "main.js": "/Work-Timer/static/js/main.9b7dff29.js",
     "static/media/beep.mp3": "/Work-Timer/static/media/beep.64e8d1ede10b490bf235.mp3",
     "static/media/instagram.svg": "/Work-Timer/static/media/instagram.43fc0150c43bc9cb9b422e4c6b2f61a1.svg",
@@ -15,11 +15,11 @@
     "static/media/arrow-down-solid.svg": "/Work-Timer/static/media/arrow-down-solid.1a2cada9b7f66ba3ba71bb32ac8f377c.svg",
     "static/media/arrow-up-solid.svg": "/Work-Timer/static/media/arrow-up-solid.8df1ccc4c82fc8dacd802cd741ccbb86.svg",
     "static/media/twitch.svg": "/Work-Timer/static/media/twitch.8808d72a8d20c4f3ab66bd199174f060.svg",
-    "main.2e2a1626.css.map": "/Work-Timer/static/css/main.2e2a1626.css.map",
+    "main.123e217d.css.map": "/Work-Timer/static/css/main.123e217d.css.map",
     "main.9b7dff29.js.map": "/Work-Timer/static/js/main.9b7dff29.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e2a1626.css",
+    "static/css/main.123e217d.css",
     "static/js/main.9b7dff29.js"
   ]
 }
